@@ -11,5 +11,3 @@ jvv00 : 4차 수정
 # yejjjin : 5차 수정
 
 jvv00 : 6차 수정
-
-yejjjin : 7차 수정
